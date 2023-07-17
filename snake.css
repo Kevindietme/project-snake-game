@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    background-image: url(./images/arcadeImagebg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: medium;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+h2, p {
+  color: aliceblue;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  font-size: small;
+}
