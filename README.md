@@ -1,5 +1,5 @@
 # Quiz App: Guess The Movie
-[![screen shot](./images/arcadeSnakeImage.png)](https://github.com/Kevindietme/project-snake-game)
+[![screen shot of the site](./images/arcadeSnakeImage.png)](https://github.com/Kevindietme/project-snake-game)
 
 ## Description 
 
