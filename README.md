@@ -1,4 +1,4 @@
-# Quiz App: Guess The Movie
+# Classic Arcade Snake 
 [![screen shot of the site](./images/arcadeSnakeImage.png)](https://github.com/Kevindietme/project-snake-game)
 
 ## Description 
